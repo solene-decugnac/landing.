@@ -1,0 +1,7 @@
+le fichier principal est le INDEX.HTML. il faut lancer celui-ci pour pouvoir accéder à tout le site.
+de plus il faut upload sut GitHub tout le dossier lewagon puis sur la plateform LE WAGON, pour qu'il soit noté.
+
+pour pouvoir accéder au resultats du formulaire, il faut se connecter sur typeform.com avec les identifiants suivants : 
+
+id = baptmusso@gmail.com
+mdp = Labaule44500 ou labaule44500
